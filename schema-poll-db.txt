@@ -1,0 +1,4 @@
+https://imgur.com/a/VUx9TCJ
+
+Hubungan antara tabel OfficialsData dengan Officials adalah one to one, karena officialsId hanya memiliki 1 officialsDataId
+hubungan antara tabel officialsId ke Votes adalah one to many, karena setiap 1 officialsId dapat dipilih/dimiliki oleh lebih dari 1 votesId
